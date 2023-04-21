@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.kotlinbasicoiii.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.kotlinbasicoiii.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juanf\\.gradle\\daemon\\7.5\\com.example.kotlinbasicoiii.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\juanf\\.gradle\\daemon\\7.5\\com.example.kotlinbasicoiii.app-main-31:\\layout\\activity_main.xml"
+    }
+]
